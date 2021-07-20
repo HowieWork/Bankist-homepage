@@ -4,4 +4,4 @@
 
 ## BRIEF
 
-When Banking meets Minimalist | [**DEMO**](FIXME)
+When Banking meets Minimalist | [**DEMO**](https://howiework.github.io/Bankist-homepage/)
